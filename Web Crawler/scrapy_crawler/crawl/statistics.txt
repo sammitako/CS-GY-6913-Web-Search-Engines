@@ -1,0 +1,4 @@
+Total links: 589104
+External links: 255911
+Internal links: 333193
+Link type of current pages - External: 3925, Internal: 310

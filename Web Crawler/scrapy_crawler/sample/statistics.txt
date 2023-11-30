@@ -1,0 +1,18 @@
+downloader/response_count: 136
+downloader/response_bytes: 5495612
+elapsed_time_seconds: 77.2925
+elapsed_time_minutes: 1m 17.29s
+downloader/response_status_count/200: 101
+downloader/response_status_count/301: 23
+downloader/response_status_count/302: 4
+downloader/response_status_count/307: 2
+downloader/response_status_count/400: 1
+downloader/response_status_count/403: 3
+downloader/response_status_count/404: 2
+Spanish (es): 0.00%
+Chinese (zh): 0.00%
+Polish (pl): 0.00%
+English (en): 92.65%
+en: 92.65%
+unknown: 5.88%
+ALL: 1.47%
